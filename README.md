@@ -11,7 +11,7 @@ npm install @tclohm/us-state-names
 ## Usage
 
 ```js
-const states = require('us-states');
+import states from '@tclohm/us-states';
 
 // Get all states as { abbr, name } objects
 states.getAll();
