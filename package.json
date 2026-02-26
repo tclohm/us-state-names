@@ -1,7 +1,7 @@
 {
   "name": "@tclohm/us-states",
   "type": "module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "United States - a simple utility for US state names and abbreviations",
   "exports": "./src/index.js",
   "main": "./src/index.js",
