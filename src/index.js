@@ -54,7 +54,7 @@ const states = [
 /**
  * Returns all states as an array of { abbr, name } objects
  */
-function getAll() {
+export function getAll() {
   return states;
 }
 
