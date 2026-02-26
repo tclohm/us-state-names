@@ -1,11 +1,11 @@
-# @tclohm/us-state-names
+# @tclohm/us-states
 
 A lightweight Node.js module for working with US state names and abbreviations.
 
 ## Installation
 
 ```bash
-npm install @tclohm/us-state-names
+npm install @tclohm/us-states
 ```
 
 ## Usage
