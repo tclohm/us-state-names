@@ -1,5 +1,5 @@
 {
-  "name": "@tclohm/us-states-names",
+  "name": "@tclohm/us-states",
   "type": "module",
   "version": "1.0.2",
   "description": "United States - a simple utility for US state names and abbreviations",
