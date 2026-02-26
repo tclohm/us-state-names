@@ -1,13 +1,19 @@
 {
   "name": "@tclohm/us-states-names",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "United States - a simple utility for US state names and abbreviations",
   "exports": "./src/index.js",
   "main": "./src/index.js",
   "module": "./src/index.js",
   "author": "tclohm",
-  "keywords": ["us-states", "us-states-names", "states", "abbreviations", "usa"],
+  "keywords": [
+    "us-states",
+    "us-states-names",
+    "states",
+    "abbreviations",
+    "usa"
+  ],
   "license": "MIT",
   "files": [
     "src/",
